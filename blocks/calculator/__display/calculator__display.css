@@ -2,5 +2,12 @@
      grid-column: 1/5;
      border-radius: 10px;
      border: 1px gray solid;
-     box-shadow: 0 0 3px black; 
+     box-shadow: 0 0 2px #d1a700;
+     background-color: white;
+     text-align: right;
+     box-sizing: border-box;
+     padding: 0 10px;
+     font-size: 20px;
+     font-weight: bold;
+     letter-spacing: 3px;
 }

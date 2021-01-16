@@ -8,10 +8,11 @@
 }
 
 .calculator__button:active {
-    background-color: gray;
-    color: white;
+    transition: 0.2s;
+    background-color: #fc0;
+    color: black;
 }
 
 .calculator__button:hover {
-    box-shadow: 0 0 3px black;
+    box-shadow: 0 0 3px #d1a700;
 }
