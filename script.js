@@ -11,7 +11,7 @@ function addEvent(button) {
     function event() {
         let type = button.getAttribute('data-type');
         if (type === '=') {
-            str = eval(str);
+            str = Math.floor((eval(str)) * 100) / 100;
             display.value = str;
             return;
         } else if (type === 'C') {

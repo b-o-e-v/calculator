@@ -5,6 +5,7 @@
     border: 1px gray solid;
     font-size: 20px;
     font-weight: bold;
+    background-color: white;
 }
 
 .calculator__button:active {
