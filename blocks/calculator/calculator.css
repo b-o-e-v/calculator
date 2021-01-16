@@ -1,0 +1,15 @@
+.calculator {
+    box-sizing: border-box;
+    width: 250px;
+    display: grid;
+    grid-template-columns: repeat(4, 50px);
+    grid-template-rows: repeat(5, 40px);
+    gap: 10px;
+    padding: 10px;
+    margin: 10% auto;
+    border: 1px solid gray;
+    box-shadow: 2px 2px 5px black;
+    border-radius: 10px;
+    position: relative;
+    background-color: rgb(223, 223, 223);
+}

@@ -1,0 +1,6 @@
+.calculator__display {
+     grid-column: 1/5;
+     border-radius: 10px;
+     border: 1px gray solid;
+     box-shadow: 0 0 3px black; 
+}

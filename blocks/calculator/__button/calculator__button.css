@@ -1,0 +1,17 @@
+.calculator__button {
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+    border: 1px gray solid;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.calculator__button:active {
+    background-color: gray;
+    color: white;
+}
+
+.calculator__button:hover {
+    box-shadow: 0 0 3px black;
+}

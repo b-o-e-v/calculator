@@ -1,0 +1,12 @@
+/* БЛОКИ */
+@import url(../blocks/root/page.css);
+@import url(../blocks/calculator/calculator.css);
+
+/* ЭЛЕМЕНТЫ */
+@import url(../blocks/calculator/__display/calculator__display.css);
+@import url(../blocks/calculator/__button/calculator__button.css);
+
+/* МОДИФИКАТОРЫ */
+@import url(../blocks/calculator/__button/_C/calculator__button_C.css);
+
+
